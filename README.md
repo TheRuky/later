@@ -1,6 +1,9 @@
 # Later - minimal Next.js starter
 
-- Next.js (App Router, `src` directory, Turbopack)
+- `pnpm`
+- App Router
+- `src` directory
+- Turbopack
 - TypeScript
 - ESLint
 - Prettier
